@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22022017-098824";"";
+"REFERENCE";"VPE 3449-02 DN100 ";"";
+"TraceParts.PartTitle";"Wafer type butterfly valve – cast iron body – stainless steel disc – lever operator";"";
+"TraceParts.InstanceId";"10-22022017-098824AVV5R0QEB7HIASYF3A0RETBCA";"";
+"DESIGN";"Butterfly valve with handle VPE 3449-02 DN100 ";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Tecofi";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"TECOFI:/TRACEPARTS/TP07/TP07006/TP07006002/10-22022017-098824";"";
